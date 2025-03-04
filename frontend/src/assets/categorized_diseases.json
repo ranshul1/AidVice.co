@@ -1,0 +1,128 @@
+[
+    {
+        "category": "Neurological Disorders",
+        "subtypes": [
+            "Alzheimer's Disease",
+            "Attention Deficit Hyperactivity Disorder",
+            "Epilepsy",
+            "Huntington's Disease",
+            "Multiple Sclerosis",
+            "Myalgic Encephalomyelitis (Chronic Fatigue Syndrome)",
+            "Narcolepsy",
+            "Parkinson's Disease",
+            "Cerebral Palsy"
+        ]
+    },
+    {
+        "category": "Respiratory Diseases",
+        "subtypes": [
+            "Asthma",
+            "Chronic Obstructive Pulmonary Disease (COPD)",
+            "Chronic Respiratory Diseases",
+            "Chronic Graft-Versus-Host Disease",
+            "Sleep Apnea",
+            "Tuberculosis"
+        ]
+    },
+    {
+        "category": "Cardiovascular Diseases",
+        "subtypes": [
+            "Atrial Fibrillation",
+            "Cardiovascular Diseases",
+            "Cerebrovascular Disease",
+            "Heart Failure",
+            "Hypertension",
+            "Ischemic Cardiopathy"
+        ]
+    },
+    {
+        "category": "Autoimmune Diseases",
+        "subtypes": [
+            "Autoimmune Diseases",
+            "Coeliac Disease",
+            "Crohn's Disease",
+            "Lupus Erythematosus",
+            "Rheumatoid Arthritis",
+            "Hashimoto's Thyroiditis",
+            "Relapsing Polychondritis"
+        ]
+    },
+    {
+        "category": "Chronic Pain Syndromes",
+        "subtypes": [
+            "Chronic Pain Syndromes (Primary, Cancer-related, Neuropathic, Visceral, Musculoskeletal, Headache and Orofacial Pain)",
+            "Complex Regional Pain Syndrome",
+            "Chronic Pancreatitis",
+            "Post-Vasectomy Pain Syndrome"
+        ]
+    },
+    {
+        "category": "Diabetes",
+        "subtypes": [
+            "Diabetes Mellitus (Type 1, Type 2, Pre-Diabetes, Gestational Diabetes)"
+        ]
+    },
+    {
+        "category": "Cancer",
+        "subtypes": [
+            "Lung Cancer",
+            "Prostate Cancer",
+            "Colorectal Cancer",
+            "Stomach Cancer",
+            "Breast Cancer",
+            "Cervical Cancer",
+            "Skin Cancer",
+            "Acute Lymphoblastic Leukemia",
+            "Brain Tumors"
+        ]
+    },
+    {
+        "category": "Gastrointestinal Disorders",
+        "subtypes": [
+            "Chronic Hepatitis (A, B, C, D, E)",
+            "Chronic Kidney Disease",
+            "Chronic Osteoarticular Diseases",
+            "Ulcerative Colitis"
+        ]
+    },
+    {
+        "category": "Genetic Disorders",
+        "subtypes": [
+            "Ehlers\u2013Danlos Syndrome (Multiple Types)",
+            "Hereditary Spherocytosis",
+            "Sickle Cell Anemia and Other Hemoglobin Disorders"
+        ]
+    },
+    {
+        "category": "Skin Conditions",
+        "subtypes": [
+            "Atopic Dermatitis",
+            "Psoriasis",
+            "Dermatological Conditions"
+        ]
+    },
+    {
+        "category": "Mental Illness",
+        "subtypes": [
+            "Mental Illness"
+        ]
+    },
+    {
+        "category": "Miscellaneous",
+        "subtypes": [
+            "Blindness",
+            "Deafness",
+            "Fetal Alcohol Spectrum Disorder",
+            "Fibromyalgia",
+            "Hearing Impairment",
+            "HIV/AIDS",
+            "Obesity",
+            "Osteoarthritis",
+            "Osteoporosis",
+            "Periodontal Disease",
+            "Polycystic Ovarian Syndrome",
+            "Substance Abuse Disorders",
+            "Thyroid Disease"
+        ]
+    }
+]

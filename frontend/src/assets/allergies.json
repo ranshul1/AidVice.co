@@ -1,0 +1,245 @@
+[
+
+{
+        "category": "Food Allergies",
+        "subtypes": [
+            "Tree Nut Allergy (e.g., almonds, cashews, walnuts)",
+            "Milk Allergy",
+            "Egg Allergy",
+            "Soy Allergy",
+            "Wheat Allergy",
+            "Shellfish Allergy",
+            "Fish Allergy",
+            "Sesame Allergy",
+            "Corn Allergy",
+            "Fruit Allergy (e.g., apples, bananas, peaches)",
+            "Legume Allergy (e.g., peas, lentils)",
+            "Meat Allergy (e.g., beef, pork, chicken)",
+            "Coconut Allergy",
+            "Mustard Allergy",
+            "Strawberry Allergy",
+            "Kiwi Allergy",
+            "Pineapple Allergy",
+            "Mango Allergy",
+            "Avocado Allergy",
+            "Melon Allergy",
+            "Papaya Allergy",
+            "Lychee Allergy",
+            "Passion Fruit Allergy",
+            "Citrus Allergy (e.g., oranges, lemons)",
+            "Peanut Allergy"
+        ]
+    },
+    {
+        "category": "Environmental Allergies",
+        "subtypes": [
+            "Pollen Allergy",
+            "Dust Mite Allergy",
+            "Mold Allergy",
+            "Pet Dander Allergy (e.g., cats, dogs)",
+            "Cockroach Allergy",
+            "Grass Allergy",
+            "Ragweed Allergy",
+            "Tree Pollen Allergy",
+            "Weed Allergy",
+            "Feather Allergy",
+            "Fungal Spore Allergy",
+            "Indoor Mold Allergy",
+            "Air Pollution Allergy",
+            "Chemical Fume Allergy",
+            "Wildfire Smoke Allergy"
+        ]
+    },
+    {
+        "category": "Drug Allergies",
+        "subtypes": [
+            "Penicillin Allergy",
+            "Aspirin Allergy",
+            "Ibuprofen Allergy",
+            "Sulfa Drug Allergy",
+            "Cephalosporin Allergy",
+            "Anesthesia Allergy",
+            "Chemotherapy Drug Allergy",
+            "Insulin Allergy",
+            "Anticonvulsant Allergy",
+            "Iodine Allergy",
+            "Codeine Allergy",
+            "Morphine Allergy",
+            "Oxycodone Allergy",
+            "Amoxicillin Allergy",
+            "Tetracycline Allergy",
+            "Antihistamine Allergy",
+            "Antibiotic Allergy",
+            "Antidepressant Allergy"
+        ]
+    },
+    {
+        "category": "Insect Allergies",
+        "subtypes": [
+            "Bee Sting Allergy",
+            "Wasp Sting Allergy",
+            "Hornet Sting Allergy",
+            "Yellow Jacket Sting Allergy",
+            "Fire Ant Sting Allergy",
+            "Mosquito Bite Allergy",
+            "Flea Bite Allergy",
+            "Tick Bite Allergy"
+        ]
+    },
+    {
+        "category": "Skin Allergies",
+        "subtypes": [
+            "Latex Allergy",
+            "Nickel Allergy",
+            "Perfume Allergy",
+            "Cosmetic Allergy",
+            "Henna Allergy",
+            "Sunlight Allergy",
+            "Cold Allergy",
+            "Heat Allergy",
+            "Exercise-Induced Allergy",
+            "Vibration Allergy",
+            "Pressure Urticaria",
+            "Alcohol Allergy",
+            "Caffeine Allergy",
+            "Fragrance Allergy",
+            "Acetic Acid Allergy (vinegar allergy)",
+            "Tobacco Allergy",
+            "Coffee Allergy",
+            "Chocolate Allergy",
+            "Vanilla Allergy",
+            "Pepper Allergy",
+            "Cardamom Allergy",
+            "Cinnamon Allergy",
+            "Clove Allergy",
+            "Nutmeg Allergy"
+        ]
+    },
+    {
+        "category": "Contact Allergies",
+        "subtypes": [
+            "Poison Ivy Allergy",
+            "Poison Oak Allergy",
+            "Poison Sumac Allergy",
+            "Rubber Allergy",
+            "Chlorine Allergy",
+            "Laundry Detergent Allergy",
+            "Fabric Softener Allergy",
+            "Soap Allergy",
+            "Sunscreen Allergy",
+            "Makeup Allergy",
+            "Deodorant Allergy",
+            "Shampoo Allergy",
+            "Hair Dye Allergy",
+            "Tattoo Ink Allergy",
+            "Temporary Tattoo Allergy"
+        ]
+    },
+    {
+        "category": "Miscellaneous Allergies",
+        "subtypes": [
+            "Sun Allergy",
+            "Cold Allergy",
+            "Heat Allergy",
+            "Aquagenic Urticaria (water allergy)",
+            "Exercise-Induced Allergy",
+            "Vibration Allergy",
+            "Pressure Urticaria",
+            "Alcohol Allergy",
+            "Caffeine Allergy",
+            "Fragrance Allergy",
+            "Acetic Acid Allergy (vinegar allergy)",
+            "Tobacco Allergy",
+            "Coffee Allergy",
+            "Chocolate Allergy",
+            "Vanilla Allergy",
+            "Pepper Allergy",
+            "Cardamom Allergy",
+            "Cinnamon Allergy",
+            "Clove Allergy",
+            "Nutmeg Allergy"
+        ]
+    },
+    {
+        "category": "Plant Allergies",
+        "subtypes": [
+            "Chamomile Allergy",
+            "Eucalyptus Allergy",
+            "Lavender Allergy",
+            "Aloe Vera Allergy",
+            "Tea Tree Oil Allergy",
+            "Basil Allergy",
+            "Mint Allergy",
+            "Rosemary Allergy",
+            "Sage Allergy",
+            "Thyme Allergy",
+            "Oregano Allergy",
+            "Jasmine Allergy",
+            "Hibiscus Allergy",
+            "Marigold Allergy"
+        ]
+    },
+    {
+        "category": "Animal Allergies",
+        "subtypes": [
+            "Horse Allergy",
+            "Rabbit Allergy",
+            "Rodent Allergy",
+            "Bird Allergy",
+            "Guinea Pig Allergy",
+            "Ferret Allergy",
+            "Sheep Allergy",
+            "Goat Allergy"
+        ]
+    },
+    {
+        "category": "Rare Allergies",
+        "subtypes": [
+            "Gelatin Allergy",
+            "Garlic Allergy",
+            "Onion Allergy",
+            "Celery Allergy",
+            "Carrot Allergy",
+            "Poppy Seed Allergy",
+            "Chia Seed Allergy",
+            "Sunflower Seed Allergy",
+            "Pumpkin Seed Allergy",
+            "Pine Nut Allergy",
+            "Saffron Allergy",
+            "Tapioca Allergy",
+            "Rice Allergy",
+            "Oat Allergy",
+            "Baker’s Yeast Allergy",
+            "Brewer’s Yeast Allergy",
+            "Spirulina Allergy",
+            "Nori Allergy"
+        ]
+    },
+    {
+        "category": "Metal Allergies",
+        "subtypes": [
+            "Cobalt Allergy",
+            "Chromium Allergy",
+            "Aluminum Allergy",
+            "Iron Allergy",
+            "Copper Allergy"
+        ]
+    },
+    {
+        "category": "Chemical Allergies",
+        "subtypes": [
+            "Formaldehyde Allergy",
+            "Benzalkonium Chloride Allergy",
+            "Paraben Allergy",
+            "Sodium Lauryl Sulfate Allergy",
+            "Acetone Allergy",
+            "Ethanol Allergy",
+            "Air Pollution Allergy",
+            "Chemical Fume Allergy",
+            "Bleach Allergy",
+            "Ammonia Allergy",
+            "Phenol Allergy",
+            "Hydrogen Peroxide Allergy"
+        ]
+    }
+]

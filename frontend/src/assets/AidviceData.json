@@ -1,0 +1,168 @@
+[
+    {
+      "Type": "domestic",
+      "Name": "Gas leakage",
+      "Data": "Evacuate the area immediately. Avoid using electrical switches or anything that could cause a spark. Call emergency services from a safe location."
+    },
+    {
+      "Type": "domestic",
+      "Name": "Broken glass",
+      "Data": "Wear gloves for protection. Sweep up large and small glass pieces carefully. Dispose of broken glass in a sturdy, sealed container."
+    },
+    {
+      "Type": "domestic",
+      "Name": "HVAC goes out",
+      "Data": "Close windows and doors to maintain indoor temperature. Use portable heaters or fans if necessary. Call a technician for repairs."
+    },
+    {
+      "Type": "domestic",
+      "Name": "Ant or rodent infestation",
+      "Data": "Remove food sources by cleaning thoroughly. Use traps for rodents and insecticides for ants. Contact pest control for large infestations."
+    },
+    {
+      "Type": "domestic",
+      "Name": "Burst hot water system",
+      "Data": "Turn off the water supply immediately. Turn off the heating system. Call a plumber for repairs."
+    },
+    {
+      "Type": "domestic",
+      "Name": "Burst tap or shower head",
+      "Data": "Turn off the main water supply. Use a wrench to remove broken parts if needed. Call a plumber for repairs."
+    },
+    {
+      "Type": "domestic",
+      "Name": "Blocked toilet, pipe, or drain",
+      "Data": "Use a plunger or drain snake to remove the blockage. Avoid using chemical cleaners to prevent pipe damage. Call a plumber if the issue persists."
+    },
+    {
+      "Type": "medical",
+      "Name": "Seizure",
+      "Data": "Protect the person from injury by moving objects and cushioning the head. Do not restrain them or put anything in their mouth. Call emergency services if the seizure lasts more than 5 minutes."
+    },
+    {
+      "Type": "medical",
+      "Name": "Shortness of breath",
+      "Data": "Sit the person upright and help them stay calm. Assist in using an inhaler if prescribed. Call emergency services if symptoms worsen."
+    },
+    {
+      "Type": "medical",
+      "Name": "Bleeding",
+      "Data": "Apply direct pressure to the wound with a clean cloth. Elevate the wound if possible. Call emergency services for severe bleeding."
+    },
+    {
+      "Type": "medical",
+      "Name": "Fainting",
+      "Data": "Lay the person down and elevate their legs. Ensure they have fresh air. Reassure them once they regain consciousness."
+    },
+    {
+      "Type": "medical",
+      "Name": "Asthma",
+      "Data": "Sit the person upright and keep them calm. Administer an inhaler: 2 puffs every 2 minutes up to 10 puffs. Call for help if the person does not improve."
+    },
+    {
+      "Type": "medical",
+      "Name": "Allergy",
+      "Data": "Remove the allergen if possible. Administer antihistamines or an EpiPen if prescribed. Call emergency services for severe reactions."
+    },
+    {
+      "Type": "medical",
+      "Name": "Dizziness",
+      "Data": "Help the person sit or lie down. Ensure they have fresh air. Offer water or fluids unless they are feeling nauseous."
+    },
+    {
+      "Type": "medical",
+      "Name": "Anaphylaxis",
+      "Data": "Administer an epinephrine injection immediately. Call emergency services. Keep the person lying down with legs elevated."
+    },
+    {
+      "Type": "medical",
+      "Name": "Heart attack",
+      "Data": "Call emergency services immediately. Keep the person calm and seated. Offer aspirin if the person is not allergic."
+    },
+    {
+      "Type": "medical",
+      "Name": "Chest pain",
+      "Data": "Encourage rest and ensure they remain seated. Call emergency services if the pain persists. Prepare to provide CPR if breathing stops."
+    },
+    {
+      "Type": "medical",
+      "Name": "Burns",
+      "Data": "Cool the burn under running water for at least 10 minutes. Cover the burn with a clean, nonstick cloth. Call for medical assistance for severe burns."
+    },
+    {
+      "Type": "medical",
+      "Name": "Unconsciousness",
+      "Data": "Check the airway, breathing, and pulse. Place the person in the recovery position if breathing. Call emergency services immediately."
+    },
+    {
+      "Type": "medical",
+      "Name": "Choking",
+      "Data": "Perform 5 back blows followed by 5 abdominal thrusts (Heimlich). Call for help if the object remains lodged."
+    },
+    {
+      "Type": "medical",
+      "Name": "Snakebite",
+      "Data": "Keep the person calm and still. Immobilize the affected area. Call emergency services immediately."
+    },
+    {
+      "Type": "medical",
+      "Name": "Respiratory failure",
+      "Data": "Call emergency services immediately. Assist with rescue breaths and ensure the airway is clear. Be prepared to start full CPR if breathing stops."
+    },
+    {
+      "Type": "medical",
+      "Name": "Internal bleeding",
+      "Data": "Keep the person still and lying down. Monitor for signs of shock (pale skin, confusion). Call emergency services immediately."
+    },
+    {
+      "Type": "medical",
+      "Name": "Hyperthermia",
+      "Data": "Move the person to a cool, shaded area. Remove excess clothing and use cold compresses. Provide cool drinks if they are conscious. Call emergency services for heatstroke."
+    },
+    {
+      "Type": "medical",
+      "Name": "Hypothermia",
+      "Data": "Move the person to a warm, dry area. Remove wet clothing and wrap them in blankets. Provide warm, sugary drinks if they are conscious. Monitor for breathing and pulse, and prepare to perform CPR if necessary."
+    },
+    {
+      "Type": "medical",
+      "Name": "Hypovolemia",
+      "Data": "Lay the person flat and elevate their legs. Keep them warm and still to prevent shock. Provide fluids if they are conscious, and call emergency services."
+    },
+    {
+      "Type": "medical",
+      "Name": "Flash burn",
+      "Data": "Cool the burn with running water for 10–20 minutes. Cover the area with a non-fluffy, sterile dressing. Seek medical help for severe burns."
+    },
+    {
+      "Type": "medical",
+      "Name": "Diabetic coma",
+      "Data": "Call emergency services immediately. Check for any insulin or medical alert information. Place the person in the recovery position if unconscious."
+    },
+    {
+      "Type": "medical",
+      "Name": "Drowning",
+      "Data": "Remove the person from the water and call emergency services. Check for breathing and pulse, and start CPR if necessary. Monitor for hypothermia, even if the person seems recovered."
+    },
+    {
+      "Type": "medical",
+      "Name": "Dental emergency",
+      "Data": "Rinse the mouth with warm water. Apply a cold compress for swelling. For knocked-out teeth, keep the tooth moist and seek dental care immediately."
+    },
+    {
+      "Type": "medical",
+      "Name": "Chest injury",
+      "Data": "Support the chest and avoid movement. Call emergency services. Monitor for breathing and prepare for CPR if necessary."
+    },
+    {
+      "Type": "medical",
+      "Name": "Cardiac arrest",
+      "Data": "Call emergency services immediately. Begin CPR with chest compressions and rescue breaths. Use an AED (if available) and continue CPR until help arrives."
+    },
+    {
+      "Type": "medical",
+      "Name": "Chemical burn",
+      "Data": "Remove contaminated clothing and rinse the area with running water for at least 20 minutes. Avoid using ice or ointments. Call emergency services and protect the area from further exposure."
+    }
+  ]
+  

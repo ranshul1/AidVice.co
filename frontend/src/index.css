@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes liquidySwitch {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  
+  .button-clicked {
+    background: linear-gradient(99.87deg,#C4333C 15.31%,  #FFA8AB 92.37%);
+    background-size: 200% 200%;
+    animation: liquidySwitch 1s ease-in-out;
+  }
+  
+  
+  
+  

@@ -16,6 +16,7 @@ function Createaccount() {
         height: '490vh',  // Ensure it takes up the full viewport height   // Ensure it takes up the full viewport width
       }} 
     > 
+      <Navbar/>
         <main style={{ flex: 1 }}>
           <Createbody/>
         </main>

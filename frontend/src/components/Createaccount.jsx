@@ -2,7 +2,7 @@ import React from 'react';
 import bgimg from '../assets/bg.jpg';
 import Createbody from './Createbody';
 import Footer from './Footer';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 function Createaccount() {
   return (
     <div
